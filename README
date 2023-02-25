@@ -1,4 +1,4 @@
-Somebody wanted a script to run once every day, and do the following:
+Somebody in a discord group wanted a script to run once every day, and do the following:
 Track the number of modified folders in a parent folder since the day before.
 Track how many folders were added or removed since the day before.
 Output the results to a text file.
